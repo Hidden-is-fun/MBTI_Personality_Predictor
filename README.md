@@ -5,3 +5,5 @@ BERT model haven't upload cuz it's file size, run BERT_model.py first to generat
 Then try the result by opening tiny_app.py
 
 have fun
+
+Click [THIS](https://github.com/Hidden-is-fun/MBTI_Predictor_Using_Several_Methods) for the rebulid version
